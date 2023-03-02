@@ -12,10 +12,6 @@ I also speak Spanish and English fluently.
   <img src="https://img.shields.io/badge/Mastodon-7289da?logo=Mastodon&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/grillo_delmal">
-  <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white" />
-</a>
-
 <a href="https://www.youtube.com/@grillo_delmal">
   <img src="https://img.shields.io/badge/YouTube-red?logo=youtube" />
 </a>
