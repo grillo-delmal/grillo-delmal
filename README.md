@@ -6,7 +6,7 @@ I also like to contribute to projects, like reporting bugs, patching buggy code,
 
 If you get a contribution from me, you can freely assume that I find your project fun enough to spend my free time on it 😄. My main intrests go from games to anime and VR. I also love all sorts of software/hardware tech like peripherals, networking, distributed systems, embeded systems, computer vision ... I could continue this list forever 😆
 
-I also speak Spanish and English fluently.
+I speak Spanish and English fluently.
 
 <a rel="me" href="https://vt.social/@grillo_delmal">
   <img src="https://img.shields.io/badge/Mastodon-7289da?logo=Mastodon&logoColor=white" />
