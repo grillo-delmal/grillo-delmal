@@ -10,7 +10,7 @@ I also like to contribute to projects, experienced in:
 
 If you get a contribution from me, you can freely assume that I find your project fun enough to spend my free time on it 😄. 
 
-My main intrests go from games to anime and VR. I also love all sorts of software/hardware tech like:
+My main interests go from games to anime and VR. I also love all sorts of software/hardware tech like:
 * peripherals
 * networking
 * distributed systems
