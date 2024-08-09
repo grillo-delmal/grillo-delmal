@@ -1,6 +1,6 @@
 ### About me
 
-I'm the kind of person that enjoys to take things apart to see how they work 🪓.
+I'm the type of person who enjoys taking things apart to see how they work 🪓.
 
 My interests go from games to anime and VR.
 
