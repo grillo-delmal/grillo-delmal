@@ -6,6 +6,9 @@ My interests go from games to anime and VR.
 
 I speak Spanish and English fluently.
 
+I use this account only to contribute to github projects.
+Wanna see mine? here is my [codeberg](https://codeberg.org/grillo-delmal) ^^.
+
 <a rel="me" href="https://vt.social/@grillo_delmal">
   <img src="https://img.shields.io/badge/Mastodon-7289da?logo=Mastodon&logoColor=white" />
 </a>
